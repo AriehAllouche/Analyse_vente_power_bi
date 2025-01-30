@@ -7,11 +7,11 @@ Un tableau de bord interactif pour analyser les performances des ventes sur la p
 ##  Indicateurs Clés
 
 Le dashboard présente les métriques suivantes :
-- Chiffre d'affaire : 1,99M€ (variation de -14,68% par rapport à N-1)
-- Profit : 1,17M€ (variation de -14,07%)
-- Panier Moyen : 909,18€
-- Nombre de commandes : 2,19K
-- Total ventes : 6,99K unités
+- Chiffre d'affaire
+- Profit
+- Panier Moyen
+- Nombre de commandes
+- Total ventes
 
 ##  Fonctionnalités Principales
 
